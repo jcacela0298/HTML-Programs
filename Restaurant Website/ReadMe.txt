@@ -1,6 +1,6 @@
 I built a Thai Restaurant website that contains various functionality for client interaction.
 
-If you would like a tutorial on how to correctly upload/download Java Eclipse projects to/from GitHub, check out my YouTube video: https://www.youtube.com/watch?v=qCrTzBX3OOg&t=2s
+If you would like a tutorial on how to correctly upload/download projects to/from GitHub into Eclipse with a Java example check out my YouTube video: https://www.youtube.com/watch?v=qCrTzBX3OOg&t=2s
 
 To use and interact with this website, download the files and make sure they are in the same folder. Then, right click on the "ct_start.html" file and click "Copy as Path". Then, go to your web browser and in the search bar type the following:
 
