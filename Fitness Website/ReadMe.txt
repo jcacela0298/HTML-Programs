@@ -10,7 +10,7 @@ file:///C:\Users\Santa\Desktop\Fitness Website\tss_home_txt.html
 
 Press enter and you will be taken to the website.
 
-If you would like a brief demo & tutorial, here is a link to my YouTube tutorial: https://youtu.be/SsRl5t3_P8I
+If you would like a brief demo & tutorial, here is a link to my YouTube video: https://youtu.be/SsRl5t3_P8I
 
 
 
