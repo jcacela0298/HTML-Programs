@@ -10,6 +10,6 @@ file:///C:\Users\Santa\Desktop\Restaurant Website\ct_start.html
 
 Press enter and you will be taken to the website.
 
-
+If you would like a brief demo & tutorial using my Fitness Website as an example, here is a link to my YouTube video: https://youtu.be/SsRl5t3_P8I
 
 During this project I learned about HTML history, attributes, elements, lists, navigation items, image files, hyperlinks, clicking to redirect client to another page, paragraphs, headers, <!DOCTYPE html>, footers, body, UTL encoding, alt, metadata, mandatory components, documentation and best practices, and basic HTML syntax.
