@@ -1,4 +1,4 @@
-I built a Fitness Website called Tri and Succees Sports that contains various functionality for client interaction.
+I built a Fitness Website called Tri and Succeed Sports that contains various functionality for client interaction.
 
 To use and interact with this website, download the files and make sure they are in the same folder. Then, right-click on the "tss_home_txt.html" file and click "Copy as Path". Then, go to your web browser and in the search bar type the following:
 
@@ -9,6 +9,8 @@ Here is an example:
 file:///C:\Users\Santa\Desktop\Fitness Website\tss_home_txt.html
 
 Press enter and you will be taken to the website.
+
+If you would like a brief demo, here is a link to my Youtube tutorial: https://youtu.be/SsRl5t3_P8I
 
 
 
