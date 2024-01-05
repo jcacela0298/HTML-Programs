@@ -11,7 +11,9 @@ Here is an example:
 file:///C:\Users\Santa\Desktop\Gourmet Sweets Website\pc_home.html
 
 Press enter and you will be taken to the website.
-
-
-
+.
+.
+.
+.
+.
 During this project, I learned about how to manipulate grids, space on the page, types of positioning (absolute, relative, etc), stacking, overall layout/appearance, float, positioning coordinates, padding, and basic HTML syntax.
