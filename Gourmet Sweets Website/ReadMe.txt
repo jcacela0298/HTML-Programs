@@ -4,7 +4,7 @@ If you would like a tutorial on how to correctly upload/download Java Eclipse pr
 
 To use and interact with this website, download the files and make sure they are in the same folder. Then, right-click on the "pc_home.html" file and click "Copy as Path". Then, go to your web browser and in the search bar type the following:
 
-file:///[and then paste the path that you copied, making sure to receive the quotation marks]
+file:///[and then paste the path that you copied, making sure to exclude the quotation marks]
 
 Here is an example:
 
