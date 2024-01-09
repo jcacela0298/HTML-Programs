@@ -1,16 +1,8 @@
 I worked on a Thai Restaurant website that contains various functionality for client interaction.
 
-To use and interact with this website, download the files and make sure they are in the same folder. Then, right-click on the "ct_start.html" file and click "Copy as Path". Then, go to your web browser and in the search bar type the following:
+To use and interact with this website, download the files and make sure they are in the same folder. Then, click on the "ct_start.html" file to open it in your browser.
 
-file:///[and then paste the path that you copied, making sure to delete the quotation marks]
-
-Here is an example:
-
-file:///C:\Users\Santa\Desktop\Restaurant Website\ct_start.html
-
-Press enter and you will be taken to the website.
-
-If you would like a brief demo & tutorial using my Fitness Website as an example, here is a link to my YouTube video: https://youtu.be/SsRl5t3_P8I
+If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
 .
 .
 .
