@@ -1,6 +1,6 @@
 I worked on a Radio Station website that contains various functionality for client viewing and interaction.
 
-If you would like to view my YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
+If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
 
 To use and interact with this website, download the files and make sure they are in the same folder. Then, click on the "tf_home.html" file so it opens in your browser.
 .
