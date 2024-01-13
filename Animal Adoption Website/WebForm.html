@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+   <meta charset="utf-8" />
+   <title>Adopt-An-Animal</title>
+   <link href="tb_reset.css" rel="stylesheet" />
+   <link href="tb_styles2.css" rel="stylesheet" />        
+
+</head>
+
+<body>
+   <header>
+      <nav id="topLinks"> 
+         <a href="#">Adopt-An-Animal.com</a>
+      </nav>
+      <img src="3.jpg" alt="Adopt An Animal" />
+      <nav class="horizontal" id="mainLinks">
+         <ul>
+            <li><a href="DogPage.html">Dogs</a></li>
+                        
+            <li><a href="CatPage.html">Cats</a></li>
+                    
+            <li><a href="Axolotl.html">Axolotls</a></li>
+                    
+            <li><a href="#">Donations</a></li>
+            <li><a href="#">Contact Us</a></li>
+
+         </ul>
+      </nav>
+   </header>
+   
+
+   <article>
+     
+
+	 <h1>Plan Your Visit!</h1>
+    
+    <!-- beginning of survey -->
+    <form id="survey">
+    <fieldset id="custInfo">
+
+      <legend>Customer Information</legend>
+         <div class="formRow"> <!-- this div form row sets the stage 
+            for us to create a style rule in "rb_forms.css to create a flexbox out of these 
+            div elements for one vs two column layouts for responsive design-->
+            <label for="name">Name*</label>
+            <input name="custName" id="name" type="text" placeholder="first and last name" required/>
+            <!-- this is a required field, and when the validation rule fires, the validation message
+            comes from the rb_formsubmit.js script file that we linked this web page to-->
+         </div>
+
+
+         <div class="formRow">
+         <label for="phone">Phone number</label>
+         <input name="custPhone" id="phone" type="tel" placeholder="(nnn) nnn-nnnn"
+               pattern="^\d{10}$|^(\(\d{3}\))?\s*\d{3}[\s-]?\d{4}$" />
+      </div>
+
+      <div class="formRow">
+      <label for="mail">E-mail*</label>
+      <input name="custEmail" id="mail" type="email" required />
+      </div>
+
+<div class="formRow">
+   <label for="info">Where did you hear about us?
+       <br /> (select all that apply)
+   </label>
+   <select name="infoSrc" id="info" size="5" multiple>
+       <option value="internet">Internet</option>
+       <option value="mag">Magazine</option>
+       <option value="news">Newspaper</option>
+       <option value="word">Word of Mouth</option>
+       <option value="other">Other</option>
+   </select>
+</div>
+  
+<div>
+   <label for="commBox">Which animal do you want to visit, and what date and time?</label>
+   <textarea name="custExp" id="commBox"></textarea>
+</div>
+
+<div>
+   <input name="mailMe" id="mailCB" value="yes" type="checkbox" />
+   <label for="mailCB">Add me to your mailing list for animal updates!</label>
+
+</div> 
+
+   
+</form>
+
+</fieldset>
+
+<div id="buttons">
+   <input type="submit" value="Submit My Survey" />
+</div>
+
+<!-- end of survey -->
+<p><a href="AdoptAnAnimal.html">Back to the home page</a></p>
+   </article>  
+ 
+   <footer>Adopt-An-Animal &copy; 2024 English (US)</footer>
+   
+</body>
+</html>

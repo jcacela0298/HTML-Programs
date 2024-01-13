@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 8th Edition
+   Tutorial 6
+   Tutorial Case
+
+   Tables Style Sheet
+   Author: Jack Cacela
+   Date:   1/8/2024
+
+   Filename:         dlr_tables.css
+
+*/
+
+/* Table Styles */
+
+table.schedule {
+    background: white;
+    border: 10px outset hsla(210, 40%, 60%, 1);
+    border-collapse: collapse; /* sets the border of the table to collapse into 
+    one another */
+    font-size: 0.75em;
+    width: 100%;
+    /* border around the whole table */
+}
+
+
+/* Table Cell Styles */
+
+table.schedule th, table.schedule td {
+    border: 1px solid gray; /* borders around table cells */
+    padding: 5px; /* creates more space within each box so the text isn't up against
+    the wall */ 
+    vertical-align: top;
+    
+    
+}
+
+
+/* Table Caption Styles */
+
+table.schedule caption {
+    caption-side: bottom;
+    text-align: right;
+}
+
+
+/* Row Group Styles */
+
+table.schedule thead tr {
+    height: 30px;
+}
+
+table.schedule tbody tr {
+    height: 40px;
+}
+
+
+table.schedule thead {
+    background: hsla(210, 40%, 60%, 1);;
+    color: white;
+}
+
+table.schedule tfoot {
+    background: black;
+    color: white;
+}
+
+/* Column Group Styles */
+
+col#firstCol {
+    background:white;
+    width: 16%;
+}
+
+col.dayCols {
+    background: white;
+    width: 12%;
+}

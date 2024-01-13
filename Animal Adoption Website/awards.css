@@ -1,0 +1,84 @@
+html {
+    background-image: url(Dog.html);
+}
+
+
+
+
+
+
+
+
+
+
+.content {
+
+    margin-left: 10px;
+    background-color: rgb(238, 255, 0);
+    display: inline-block; /* or display: inline; */
+    padding: 20px
+}
+
+.blue {
+    color: blue;
+    color: hsla(210, 40%, 60%, 1);
+    background-color: rgb(238, 255, 0);
+    display: inline-block; /* because headers are a block-level element by default,
+     which takes up the full width of its container, we need to change the display property of it to 
+     inline-block so that it only takes up as much width as is necessary for our content. */
+
+/* hue is first number and is from 0-360. 
+    the next number is saturation from 0 to 100%.
+    the last name is lightness , so 0% is all black and 100%
+    is all white. then the last number is the alpha value or transparency
+    where 1 is opaque and 0 is totally transparent.  */
+}
+.box ul li {
+    color: black;
+    padding-left: 0px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+
+body {
+    color: hsla(210, 40%, 60%, 1);
+    font-size: 20px;
+}
+
+.box ul {
+    padding-left: 10px; /* Adjust this value as needed */
+    
+}
+
+.box ul li a {
+    color: black; /* Set the color of the links */
+    margin-right: 20px; /* Adjust as needed for spacing between links */
+    text-decoration: underline; /* add underlines to links */
+    display: inline-block; /* Make links behave like blocks, allowing margin/padding */
+}
+
+.box ul li a:hover {
+    color: blue; /* Change color on hover if desired */
+    text-decoration: none; /* Remove underlines on hover */
+}
+
+
+.box {
+    height: 850px;
+    width: 11em;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: hsla(210, 40%, 60%, 1);
+    /* the background goes on the padding because the background is 
+    inside of the border. em also scales based on the font size so if 
+    the font size is 16 pixels, 2em is 32 pixels*/
+}
+
+.box ul li a img {
+    width: 200px; /* Set the width of the images as needed */
+    height: 200px; /* Set the height of the images as needed */
+    margin-right: 20px; /* Adjust as needed for spacing between images */
+    object-fit: cover;
+}
